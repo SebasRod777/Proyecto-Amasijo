@@ -1,0 +1,8 @@
+$enable-shadows: true;
+$primary: #7a00e6;
+
+@import "../libs/bootstrap/scss/bootstrap";
+
+.text-primary{
+    color:solid,#7a00e6; 
+}

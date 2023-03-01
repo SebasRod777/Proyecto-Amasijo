@@ -1,0 +1,2 @@
+Error("Cannot parse JSON config");var hb=J(X.initialGeometry),ib,Y=w(X.permissions);if(!(m(Y)&&h(Y.expandByOverlay)&&h(Y.expandByPush)&&h(Y.readCookie)&&h(Y.writeCookie)))throw Error("Cannot parse JSON permissions");ib=new ya(Y.expandByOverlay,Y.expandByPush,Y.readCookie,Y.writeCookie);var Z=w(X.metadata);if(!(m(Z)&&m(Z.shared)&&f(Z.shared.sf_ver)&&k(Z.shared.ck_on)&&f(Z.shared.flash_ver)))throw Error("Cannot parse JSON metadata");ab=
+new R(new za(X.uid,X.hostPeerName,hb,ib,new xa({shared:{sf_ver:Z.shared.sf_ver,ck_on:Z.shared.ck_on,flash_ver:Z.shared.flash_ver}}),X.repo

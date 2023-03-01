@@ -1,0 +1,116 @@
+reference/com/google/android/gms/ads/reward/mediation/MediationRewardedVideoAdAdapter.html#isInitialized()">isInitialized</a></span>()</nobr>
+        
+        <div class="jd-descrdiv">Returns <code>true</code> if the ad network has been initialized.</div>
+  
+  </td></tr>
+
+
+	 
+    <tr class="alt-color api apilevel-" >
+        <td class="jd-typecol"><nobr>
+            abstract
+            
+            
+            
+            void</nobr>
+        </td>
+        <td class="jd-linkcol" width="100%"><nobr>
+        <span class="sympad"><a href="../../../../../../../../reference/com/google/android/gms/ads/reward/mediation/MediationRewardedVideoAdAdapter.html#loadAd(com.google.android.gms.ads.mediation.MediationAdRequest, android.os.Bundle, android.os.Bundle)">loadAd</a></span>(<a href="../../../../../../../../reference/com/google/android/gms/ads/mediation/MediationAdRequest.html">MediationAdRequest</a> mediationAdRequest, Bundle serverParameters, Bundle networkExtras)</nobr>
+        
+        <div class="jd-descrdiv">Requests a rewarded video ad.</div>
+  
+  </td></tr>
+
+
+	 
+    <tr class=" api apilevel-" >
+        <td class="jd-typecol"><nobr>
+            abstract
+            
+            
+            
+            void</nobr>
+        </td>
+        <td class="jd-linkcol" width="100%"><nobr>
+        <span class="sympad"><a href="../../../../../../../../reference/com/google/android/gms/ads/reward/mediation/MediationRewardedVideoAdAdapter.html#showVideo()">showVideo</a></span>()</nobr>
+        
+        <div class="jd-descrdiv">Shows the rewarded video ad.</div>
+  
+  </td></tr>
+
+
+</table>
+  </div>
+</div>
+</td></tr>
+
+
+
+<tr class="api apilevel-" >
+<td colspan="12">
+  <a href="#" onclick="return toggleInherited(this, null)" id="inherited-methods-com.google.android.gms.ads.mediation.MediationAdapter" class="jd-expando-trigger closed"
+          ><img id="inherited-methods-com.google.android.gms.ads.mediation.MediationAdapter-trigger"
+          src="../../../../../../../../assets/images/triangle-closed.png"
+          class="jd-expando-trigger-img" /></a>
+From interface
+
+  <a href="../../../../../../../../reference/com/google/android/gms/ads/mediation/MediationAdapter.html">com.google.android.gms.ads.mediation.MediationAdapter</a>
+
+<div id="inherited-methods-com.google.android.gms.ads.mediation.MediationAdapter">
+  <div id="inherited-methods-com.google.android.gms.ads.mediation.MediationAdapter-list"
+        class="jd-inheritedlinks">
+  </div>
+  <div id="inherited-methods-com.google.android.gms.ads.mediation.MediationAdapter-summary" style="display: none;">
+    <table class="jd-sumtable-expando">
+    
+
+
+	 
+    <tr class="alt-color api apilevel-" >
+        <td class="jd-typecol"><nobr>
+            abstract
+            
+            
+            
+            void</nobr>
+        </td>
+        <td class="jd-linkcol" width="100%"><nobr>
+        <span class="sympad"><a href="../../../../../../../../reference/com/google/android/gms/ads/mediation/MediationAdapter.html#onDestroy()">onDestroy</a></span>()</nobr>
+        
+        <div class="jd-descrdiv">Tears down the adapter control.</div>
+  
+  </td></tr>
+
+
+	 
+    <tr class=" api apilevel-" >
+        <td class="jd-typecol"><nobr>
+            abstract
+            
+            
+            
+            void</nobr>
+        </td>
+        <td class="jd-linkcol" width="100%"><nobr>
+        <span class="sympad"><a href="../../../../../../../../reference/com/google/android/gms/ads/mediation/MediationAdapter.html#onPause()">onPause</a></span>()</nobr>
+        
+        <div class="jd-descrdiv">Called when the application calls <code>onPause</code> on the
+ <code><a href="../../../../../../../../reference/com/google/android/gms/ads/AdView.html">AdView</a></code>.</div>
+  
+  </td></tr>
+
+
+	 
+    <tr class="alt-color api apilevel-" >
+        <td class="jd-typecol"><nobr>
+            abstract
+            
+            
+            
+            void</nobr>
+        </td>
+        <td class="jd-linkcol" width="100%"><nobr>
+        <span class="sympad"><a href="../../../../../../../../reference/com/google/android/gms/ads/mediation/MediationAdapter.html#onResume()">onResume</a></span>()</nobr>
+        
+        <div class="jd-descrdiv">Called when the application calls <code>onResume</code> on the
+ <code><
